@@ -1,0 +1,9 @@
+Q9)What are oops concepts? Is multiple inheritance supported in java
+Ans)The Main OOPS concepts are:
+
+1.Abstraction
+2.Polymorphism
+3.Inheritance
+4.Encapsulation
+
+Java does not support multiple inheritances in classes because it can lead to diamond problem.

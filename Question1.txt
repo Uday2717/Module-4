@@ -1,0 +1,5 @@
+Q1)What is File Function in Python? What is keywords to create and write files?
+Ans) File Function in python is used for working with files. The key function for working with files in Python is the open() function. 
+"w" - Write - will overwrite any existing content.
+
+"a" - Append - will append to the end of the file.
